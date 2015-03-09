@@ -1,0 +1,33 @@
+{
+  "name": "mocha-bunyan-json-file-reporter",
+  "version": "0.1.0",
+  "description": "mocha reporter output bunyan",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EricCat/mocha-bunyan-json-file-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "bunyan",
+    "json",
+    "reporter"
+  ],
+  "author": "Wei Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EricCat/mocha-bunyan-json-file-reporter/issues"
+  },
+  "homepage": "https://github.com/EricCat/mocha-bunyan-json-file-reporter",
+  "dependencies": {
+    "bunyan": "^1.3.4",
+    "moment": "^2.9.0"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  }
+}
